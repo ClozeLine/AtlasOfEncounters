@@ -1,0 +1,7 @@
+name = "atlas-sync"
+main = "src/index.js"
+compatibility_date = "2026-05-01"
+
+[[kv_namespaces]]
+binding = "ATLAS_SYNC"
+id = "78365cefd8d9492585dd46b8545d1dd0"
